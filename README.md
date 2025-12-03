@@ -6,7 +6,7 @@ The demand for AI-powered data visualization tools is surging as businesses seek
 
 We'll build an AI Data Visualization Agent using Together AI's powerful language models and E2B's secure code execution environment. This agent will understand natural language queries about your data and automatically generate appropriate visualizations, making data exploration intuitive and efficient.
 
-![AI Data Visualization Agent](https://github.com/GURPREETKAURJETHRA/AI-Data-Visualization-Agent/blob/main/img/AI%20DVA1.jpg)
+![AI Data Visualization Agent](https://github.com/shahabahmadkhan555/AI-Data-Visualization-Agent/blob/main/AI%20DVA1.jpg?raw=true)
 
 This tutorial can also be considered as a demo for the E2B Code Interpreter and Together AI, for anyone who's getting started with these libraries!
 
