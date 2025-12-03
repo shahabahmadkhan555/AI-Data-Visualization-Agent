@@ -46,7 +46,7 @@ A Streamlit application that acts as your personal data visualization expert, po
 - Qwen 2.5 7B for quick analysis
 - Meta-Llama 3.3 70B for advanced queries
 
-![AI Data Visualization Agent](https://github.com/GURPREETKAURJETHRA/AI-Data-Visualization-Agent/blob/main/img/AI%20DVA3.jpg)
+![AI Data Visualization Agent](https://github.com/shahabahmadkhan555/AI-Data-Visualization-Agent/blob/main/AI%20DVA3.jpg?raw=true)
 
 ## How to Run
 
