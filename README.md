@@ -56,7 +56,7 @@ Follow the steps below to set up and run the application:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/GURPREETKAURJETHRA/AI-Data-Visualization-Agent.git
+   git clone https://github.com/shahabahmadkhan555/AI-Data-Visualization-Agent.git
    cd AI-Data-Visualization-Agent
 
    ```
