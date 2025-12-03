@@ -2,7 +2,7 @@
 This Streamlit application creates an interactive Data Visualization Assistant that can understand Natural Language Queries and generate appropriate Visualizations using LLMs.
 The demand for AI-powered data visualization tools is surging as businesses seek faster, more intuitive ways to understand their data. We can tap into this growing market by building our own AI-powered visualization tools that integrate seamlessly with existing data workflows.
 
-![AI Data Visualization Agent](https://github.com/GURPREETKAURJETHRA/AI-Data-Visualization-Agent/blob/main/img/AI%20DVA.jpg) 
+![AI Data Visualization Agent](https://github.com/shahabahmadkhan555/AI-Data-Visualization-Agent/blob/main/AI%20DVA.jpg?raw=true) 
 
 We'll build an AI Data Visualization Agent using Together AI's powerful language models and E2B's secure code execution environment. This agent will understand natural language queries about your data and automatically generate appropriate visualizations, making data exploration intuitive and efficient.
 
