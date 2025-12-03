@@ -23,7 +23,7 @@ Features:
      → Qwen 2.5 7B                             
      → Meta-Llama 3.3 70B                                        
      
-![AI Data Visualization Agent](https://github.com/GURPREETKAURJETHRA/AI-Data-Visualization-Agent/blob/main/img/AI%20DVA2.jpg)
+![AI Data Visualization Agent](https://github.com/shahabahmadkhan555/AI-Data-Visualization-Agent/blob/main/AI%20DVA2.jpg?raw=true)
 
 ## Features
 A Streamlit application that acts as your personal data visualization expert, powered by LLMs. Simply upload your dataset and ask questions in natural language - the AI agent will analyze your data, generate appropriate visualizations, and provide insights through a combination of charts, statistics, and explanations.
